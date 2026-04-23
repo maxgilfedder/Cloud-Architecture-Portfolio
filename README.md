@@ -50,7 +50,8 @@ Focus areas:
 - High availability across AZs
 - Secure database placement
 - Load balancing and scaling strategies
-[
+
+
 👉 https://github.com/maxgilfedder/Three-Tier-Application
 
 ---
