@@ -34,22 +34,6 @@ Below are my core cloud architecture projects. Each project includes architectur
 
 ### Serverless Application Architecture (AWS + Terraform)
 
-Event-driven serverless application designed for scalability, low operational overhead, and cost efficiency.
-
-- AWS Lambda
-- API Gateway
-- DynamoDB
-- S3
-- IAM
-- CloudWatch
-
-Focus areas:
-- Serverless architecture design
-- Secure IAM implementation
-- Cost-efficient cloud design
-- Event-driven workflows
-
-👉 https://github.com/yourusername/aws-serverless-app-terraform
 
 ---
 
@@ -75,20 +59,7 @@ Focus areas:
 
 ### Observability & Logging Pipeline
 
-Centralised logging and monitoring solution integrating AWS services with Splunk.
 
-- AWS CloudWatch
-- AWS Lambda
-- S3
-- Splunk
-
-Focus areas:
-- Log ingestion and processing pipelines
-- Real-time observability
-- Monitoring and alerting design
-- Data flow architecture
-
-👉 https://github.com/yourusername/aws-observability-pipeline
 
 ---
 
