@@ -1,7 +1,5 @@
 # Cloud-Architecture-Portfolio
 
-# Cloud Architecture Portfolio
-
 AWS Certified Solutions Architect (Associate)  
 Cloud Engineering | Terraform | Pre-Sales | Solution Design
 
