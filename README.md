@@ -28,28 +28,18 @@ My background in pre-sales and cloud integrations allows me to combine technical
 
 Below are my core cloud architecture projects. Each project includes architecture diagrams, Terraform infrastructure code, and design documentation.
 
----
-
-### Serverless Application Architecture (AWS + Terraform)
-
-
----
-
 ### Three-Tier Web Application Architecture
 
 Highly available and scalable web application using a traditional three-tier architecture model.
-
-- EC2
-- Application Load Balancer (ALB)
-- RDS
-- VPC (public/private subnets)
-- Route 53
 
 Focus areas:
 - Network segmentation (VPC design)
 - High availability across AZs
 - Secure database placement
 - Load balancing and scaling strategies
+
+- Services Utilised
+- 
 
 
 👉 https://github.com/maxgilfedder/Three-Tier-Application
