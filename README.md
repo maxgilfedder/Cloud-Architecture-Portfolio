@@ -90,5 +90,4 @@ I am actively expanding this portfolio with:
 
 ## Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/max-gilfedder-bb1582143
