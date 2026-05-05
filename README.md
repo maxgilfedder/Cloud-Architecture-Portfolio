@@ -38,17 +38,8 @@ Focus areas:
 - Secure database placement
 - Load balancing and scaling strategies
 
-- Services Utilised
-- 
-
 
 👉 https://github.com/maxgilfedder/Three-Tier-Application
-
----
-
-### Observability & Logging Pipeline
-
-
 
 ---
 
